@@ -1,0 +1,1 @@
+3D render of a bunch of bananas, with warm, diffused lighting to create soft shadows and highlight the yellow and brown tones of the fruit, using Maya
